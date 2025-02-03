@@ -27,15 +27,6 @@
 
 <br/>
 
-## 📫 Let's Connect!
-
-You can find me on various platforms. Don't hesitate to reach out. I'd love to connect!
-
-- **LinkedIn**: [Hasan Huda](https://www.linkedin.com/in/hasan-huda/)
-- **Email**: [hasanhuda037@gmail.com](mailto:hasanhuda037@gmail.com)
-
-Feel free to explore my repositories, contribute to my projects, and join me on my journey as a software engineer! 🤝
-
 <br/>
 
 ## Languages and Tools
