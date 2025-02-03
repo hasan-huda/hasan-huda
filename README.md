@@ -20,7 +20,7 @@
 <br/>
 💬  Ask me about [Alf Ajr](https://www.alf-ajr.com/)
 <br/>
-✨  Interests: Volleyball, Machine Learning & AI, Cloud Computing, Cooking, and Gym!
+✨  Interests: Volleyball, Machine Learning & AI, and Cloud Computing
 <br/>
 
 </p>
